@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: dev-container
-        image: us-west1-docker.pkg.dev/qwiklabs-gcp-04-89bd678ce2f2/my-repository/hello-cloudbuild-dev:v1.0
+        image: us-west1-docker.pkg.dev/qwiklabs-gcp-04-89bd678ce2f2/my-repository/hello-cloudbuild:v2.0
         ports:
         - containerPort: 8080
