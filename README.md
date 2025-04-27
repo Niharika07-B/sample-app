@@ -49,4 +49,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-This should serve as a basic README for your GitHub project.
